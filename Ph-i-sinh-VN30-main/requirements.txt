@@ -1,0 +1,17 @@
+# VN30 Algorithmic Trading System — Requirements
+# Cài đặt: pip install -r requirements.txt
+
+# --- Xử lý & phân tích dữ liệu ---
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# --- Machine Learning ---
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# --- Trực quan hóa ---
+plotly>=5.18.0
+
+# --- Nguồn dữ liệu ---
+vnstock3
